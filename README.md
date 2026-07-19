@@ -1,9 +1,7 @@
-# 📚 Curso de Capacitação em Ferramentas Digitais — Apostila de Informática Básica
+# Curso de Capacitação em Ferramentas Digitais — Apostila de Informática Básica
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge" alt="Status Concluído">
-  <img src="https://img.shields.io/badge/P%C3%BAblico-Iniciantes-blue?style=for-the-badge" alt="Público Iniciantes">
-  <img src="https://img.shields.io/badge/Ano-2026-orange?style=for-the-badge" alt="Ano 2026">
 </p>
 
 Bem-vindo(a) ao repositório oficial da **Apostila de Informática Básica**! Este material foi cuidadosamente desenvolvido como um guia de apoio prático e acessível para quem está dando os primeiros passos no universo digital. 
@@ -12,7 +10,7 @@ O objetivo principal é capacitar cidadãos e estudantes no uso consciente do co
 
 ---
 
-## 👩‍💻 Autores
+## Autores
 Este projeto foi construído a muitas mãos por uma equipe dedicada:
 * **Cristine Vitória da Silva Costa**
 * **Alison da Conceição Furtado**
@@ -20,7 +18,7 @@ Este projeto foi construído a muitas mãos por uma equipe dedicada:
 
 ---
 
-## 📖 Estrutura do Conteúdo
+## Estrutura do Conteúdo
 
 A apostila está dividida em módulos práticos e progressivos, repletos de conceitos teóricos, dicas rápidas e exercícios de fixação:
 
@@ -57,7 +55,7 @@ A apostila está dividida em módulos práticos e progressivos, repletos de conc
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas Abordadas
+## Tecnologias & Ferramentas Abordadas
 
 * **Sistemas Operacionais:** Windows / Linux / macOS
 * **Editores de Texto:** Microsoft Word / Google Docs
@@ -67,7 +65,7 @@ A apostila está dividida em módulos práticos e progressivos, repletos de conc
 
 ---
 
-## 💡 Considerações Finais
+## Considerações Finais
 
 > *"Praticar é a melhor forma de fixar o que foi aprendido: refaça os exercícios, explore as ferramentas por conta própria e não tenha medo de errar — é assim que se aprende informática no dia a dia!"*
 

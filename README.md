@@ -61,7 +61,6 @@ A apostila está dividida em módulos práticos e progressivos, repletos de conc
 * **Editores de Texto:** Microsoft Word / Google Docs
 * **Planilhas Eletrônicas:** Microsoft Excel
 * **Design Gráfico:** Canva
-* **Inteligência Artificial:** Flow IA *(utilizada na geração das ilustrações didáticas do material)*
 
 ---
 
